@@ -1,5 +1,3 @@
-# MDS7202
-
 # 👋 Hola, soy Andrés Oñate Escobedo
 
 🎓 Estudiante de **Ingeniería Civil Industrial** y actualmente cursando el **Magíster en Ciencia de Datos**, ambos en la Universidad de Chile.  
